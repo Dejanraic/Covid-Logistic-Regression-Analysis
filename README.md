@@ -34,7 +34,7 @@ After data cleaning and preparing the dataframe for analysis, the logistic regre
 ### Conclusion
 
 The analysis yielded favorable results, where almost 90% of people that died were able to be predicted.
-It was shown that a higher number of pre-existing conditions can greatly increase your chances of dying from Covid and that each pre-existing conditions increases the mortality rate. (graph shown below showcases how each pre-existing condition affects mortality)
+It was shown that a higher number of pre-existing conditions can greatly increase your chances of dying from Covid and that each pre-existing conditions increases the mortality rate.
 
 Potential areas where the logistic regression and general analysis could be improved include:
 
@@ -42,4 +42,3 @@ Potential areas where the logistic regression and general analysis could be impr
 - Adding additional variables could help with prediction (there was a variable for whether a patient tested positive, but the values were hard to decipher clearly: a simple yes or no for whether the patient tested positive would be best)
 - Using a different classification algorithm, such as Decision Tree, KNN, K-Means, or Random Forest
 
-![image](https://github.com/Dejanraic/Covid-Analysis/assets/121209357/e658367b-f16a-4421-bf79-40eef2aec647)
