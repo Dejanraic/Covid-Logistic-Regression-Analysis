@@ -1,6 +1,8 @@
 # Covid-Analysis
 This project is part of my data science portfolio and was created to showcase some of the skills I have learned since I started my journey into programming and data science!
 
+Please refer to the .ipynb file to see the project code.
+
 ### Introduction
 
 The purpose of this project is to create a logistic regression classifier using Covid data. Patient characteristics, such as if they have pneumonia, diabetes, and their age, will be used to predict whether they will die from Covid. This type of prediction algorithm would be useful for a healthcare company, hospital, or even a Primary Care Physician for determining whether patients are more at risk for dying from Covid. This would allow them to potentially tailor their treatment based on their pre-existing conditions or characteristics.
